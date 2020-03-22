@@ -6,3 +6,5 @@ There will be four PDFs for each crossword:
 2. the across clues;
 3. the down clues;
 4. and (a little later) the answers.
+
+The clues are spectrograms, the answers are word.
