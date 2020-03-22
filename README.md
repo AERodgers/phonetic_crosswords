@@ -1,5 +1,8 @@
 # phonetic_crosswords
-Spectrogram crosswords!
+##Spectrogram crosswords!
+
+The clues are spectrograms, the answers are word.
+
 There will be four PDFs for each crossword:
 
 1. the crossword with text clues;
@@ -7,4 +10,3 @@ There will be four PDFs for each crossword:
 3. the down clues;
 4. and (a little later) the answers.
 
-The clues are spectrograms, the answers are word.
