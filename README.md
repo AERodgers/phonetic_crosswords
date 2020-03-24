@@ -1,4 +1,4 @@
-#  Phonetic Ccrosswords
+#  Phonetic Crosswords
 
 ##Spectrogram crosswords!
 
